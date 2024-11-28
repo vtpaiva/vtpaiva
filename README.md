@@ -1,7 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vtpaiva.vtpaiva&right_color=yellow"  />
-
-###
-
 <h2 align="center">welcome 👋🤓</h2>
 
 ###
